@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cinema-react-synergy/static/css/main.a1f8cb8b.css",
+    "main.js": "/cinema-react-synergy/static/js/main.330b39cf.js",
+    "index.html": "/cinema-react-synergy/index.html",
+    "main.a1f8cb8b.css.map": "/cinema-react-synergy/static/css/main.a1f8cb8b.css.map",
+    "main.330b39cf.js.map": "/cinema-react-synergy/static/js/main.330b39cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f8cb8b.css",
+    "static/js/main.330b39cf.js"
+  ]
+}
